@@ -1,8 +1,33 @@
-## Hi there 👋
+## Hi there, it`s Laura👋
 
+### Software Engineering Student
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lauratbg&show_icons=true&theme=radical)
+#### About me
+🎓 I am currently finishing my degree in Software Engineering  at the University of Oviedo.
 
+### 🔧 Technologies & Tools
+Programming Languages: Java, JavaScript, C++
+
+Web Development: HTML, CSS, React, Node.js, SpringBoot
+
+Databases: MySQL, MongoDB
+
+Version Control: Git, GitHub
+
+### 💬 Languages
+Spanish: Native
+
+English: Advanced (B2)
+
+### 📫 How to Reach Me
+Email: lauratbg2001@gmail.com
+
+LinkedIn: [Lauratbg](https://www.linkedin.com/in/lauratbg)
+
+#### GitHub stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lauratbg&show_icons=true&theme=radical)
+
+![Most common languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lauratbg&layout=compact&theme=radical)
 
 <!--
 **lauratbg/lauratbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
