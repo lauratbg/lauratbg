@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lauratbg&show_icons=true&theme=radical)
+
+
 <!--
 **lauratbg/lauratbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
