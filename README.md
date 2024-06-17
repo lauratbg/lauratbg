@@ -1,11 +1,16 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/7NoNw4pMNTvgc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/content-7NoNw4pMNTvgc">via GIPHY</a></p>
-
 ## Hi there! It`s Laura👋
+<div>
+      <img src='https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif' align='left' style="width: 200px; margin-right: 20px;">
+</div>
 
 ### Software Engineering Student
 
 #### About me
 🎓 I am currently finishing my degree in Software Engineering  at the University of Oviedo.
+
+<br> 
+<br> 
+<br> 
 
 ### 🔧 Technologies & Tools
 Programming Languages: Java, JavaScript, C++
