@@ -5,7 +5,7 @@
 
 ### Software Engineering Student
 
-#### About me
+### About me
 🎓 I am currently finishing my degree in Software Engineering  at the University of Oviedo.
 
 <br> 
