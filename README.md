@@ -1,4 +1,5 @@
 ## Hi there! It`s Laura👋
+<img src='https://github.com/lauratbg/lauratbg/public/' align='left'>
 
 ### Software Engineering Student
 
