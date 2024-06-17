@@ -1,4 +1,4 @@
-## Hi there, it`s Laura👋
+## Hi there! It`s Laura👋
 
 ### Software Engineering Student
 
