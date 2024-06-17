@@ -24,7 +24,7 @@ Email: lauratbg2001@gmail.com
 
 LinkedIn: [Lauratbg](https://www.linkedin.com/in/lauratbg)
 
-#### GitHub stats
+### GitHub stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lauratbg&show_icons=true&theme=radical)
 
 ![Most common languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lauratbg&layout=compact&theme=radical)
