@@ -27,9 +27,9 @@ Spanish: Native
 English: Advanced (B2)
 
 ### 📫 How to Reach Me
-Email: lauratbg2001@gmail.com
+[E-mail](lauratbg2001@gmail.com)
 
-LinkedIn: [Lauratbg](https://www.linkedin.com/in/lauratbg)
+[LinkedIn](https://www.linkedin.com/in/lauratbg)
 
 ### GitHub stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lauratbg&show_icons=true&theme=radical)
