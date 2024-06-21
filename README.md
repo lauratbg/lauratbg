@@ -3,12 +3,13 @@
       <img src='https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif' align='left' style="width: 200px; margin-right: 20px;">
 </div>
 
-### Software Engineering Student
+### Software Engineering Student 💻 
 
 ### About me
-🎓 I am currently finishing my degree in Software Engineering  at the University of Oviedo.
-
+🎓 Currently finishing my degree in Software Engineering  at the University of Oviedo.
 <br> 
+👩🏼‍💻 Working as Junior Java Developer
+
 <br> 
 <br> 
 
