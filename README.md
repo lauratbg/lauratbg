@@ -27,6 +27,17 @@ Databases: MySQL, MongoDB
 
 Version Control: Git, GitHub
 
+<p align="center">
+  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
+  <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
+  <code><a href="https://reactjs.org/"><img alt="Angular" title="Angular" src="./assets/angular.png" height="42"></a></code>
+  <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/springboot.png" height="42"></a></code>
+  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
+</p>
+
 ### 💬 Languages
 Spanish: Native
 
