@@ -52,7 +52,15 @@ e-mail: lauratbg2001@gmail.com
 [LinkedIn](https://www.linkedin.com/in/lauratbg)
 
 ### 🚀 GitHub stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lauratbg&show_icons=true&theme=radical)
 
-![Most common languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lauratbg&layout=compact&theme=radical)
+<div align="center">
+  <a href="https://github.com/lauratbg">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lauratbg&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/Tono2007">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratbg&langs_count=12&layout=compact" />
+  </a>
+</div>
+
+
 
