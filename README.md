@@ -39,6 +39,9 @@ Version Control: Git, GitHub
   <a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a>
   <a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a>
   <a href="https://es.wikipedia.org/wiki/C%2B%2B#:~:text=C%2B%2B%20es%20un%20lenguaje,C%2B%2B%20es%20un%20lenguaje%20h%C3%ADbrido."><img alt="C++" title="C++" src="./assets/c++.png" height="42"></a>
+  <a href="https://aws.amazon.com/"><img alt="AWS" title="AWS" src="./assets/aws.png" height="42"></a>
+  <a href="https://azure.microsoft.com/es-es"><img alt="Azure" title="Azure" src="./assets/azure.png" height="42"></a>
+
 
 </div>
 
