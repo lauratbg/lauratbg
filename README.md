@@ -1,4 +1,9 @@
-## Hi there! It`s Laura👋
+
+
+<!--h1 without bottom border-->
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, It's Laura </h1>
+
+
 
 ### Software Engineering Student 💻 
 
@@ -55,6 +60,8 @@ e-mail: lauratbg2001@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/lauratbg)
 
+
+
 ### 🚀 GitHub stats
 
 <div align="center">
@@ -64,6 +71,12 @@ e-mail: lauratbg2001@gmail.com
   <a href="https://github.com/Tono2007">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratbg&langs_count=12&layout=compact" />
   </a>
+</div>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
 
