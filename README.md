@@ -65,6 +65,7 @@ e-mail: lauratbg2001@gmail.com
 ### 🚀 GitHub stats
 
 <div align="center">
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauratbg&" alt="lauratbg" /></p>
   <a href="https://github.com/lauratbg">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lauratbg&count_private=true&show_icons=true" />
   </a>
