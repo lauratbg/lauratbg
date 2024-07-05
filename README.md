@@ -55,11 +55,9 @@ Spanish: Native
 
 English: Advanced (B2)
 
-### 📫 How to Reach Me
-e-mail: lauratbg2001@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/lauratbg)
-
+### 📫 Let`s connect!
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lauratbg2001@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lauratbg)
 
 
 ### 🚀 GitHub stats
