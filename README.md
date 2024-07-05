@@ -8,7 +8,7 @@
 ### Software Engineering Student 💻 
 
 <div>
-      <img src='https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif' align='left' style="width: 200px; margin-right: 20px;">
+      <img align='left' style="width: 200px; margin-right: 20px; alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 </div>
 
 
