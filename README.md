@@ -67,7 +67,7 @@ English: Advanced (B2)
   <a href="https://github.com/lauratbg">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lauratbg&count_private=true&show_icons=true" />
   </a>
-  <a href="https://github.com/Tono2007">
+  <a href="https://github.com/lauratbg">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratbg&langs_count=12&layout=compact" />
   </a>
 </div>
