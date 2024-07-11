@@ -4,7 +4,6 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, It's Laura </h1>
 
 
-
 ### Software Engineering Student 💻 
 
 <div>
@@ -23,6 +22,8 @@
 <br> 
 <br> 
 <br> 
+
+--- 
 
 ### 🔧 Technologies & Tools
 Programming Languages: Java, JavaScript, C++, C#, Python
@@ -50,15 +51,20 @@ Version Control: Git, GitHub
 
 </div>
 
+--- 
+
 ### 💬 Languages
 Spanish: Native
 
 English: Advanced (B2)
 
+--- 
+
 ### 📫 Let`s connect!
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lauratbg2001@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lauratbg)
 
+--- 
 
 ### 🚀 GitHub stats
 
