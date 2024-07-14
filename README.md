@@ -26,7 +26,7 @@
 --- 
 
 ### 🔧 Technologies & Tools
-Programming Languages: Java, JavaScript, C++, C#, Python
+Programming Languages: Java, JavaScript, C++, C#, Python, TypeScript
 
 Web Development: HTML, CSS, React, Node.js, SpringBoot
 
